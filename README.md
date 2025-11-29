@@ -1,4 +1,4 @@
-# 📄 Python File and Error Handling – Assignment
+# 📄 Python File & Error Handling – Assignment
 
 This program demonstrates basic file handling operations in Python, including reading, writing, appending and error handling.
 
